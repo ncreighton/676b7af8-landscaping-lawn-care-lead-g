@@ -1,2 +1,59 @@
-# 676b7af8-landscaping-lawn-care-lead-g
-Stop losing landscaping leads to clunky forms that don't match your lawn care brand. Build professional, mobile-optimized lead capture forms in minutes—no coding or design skills required.  This plugin solves the disconnect between your stunning landscaping work and the outdated forms on your website. It provides pre-built, customizable templates s
+=== Landscaping & Lawn Care Lead Generation Form Builder WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Multi-step forms, conditional logic, and CRM integration designed for Landscaping & Lawn Care businesses. Higher conversion than generic form plugins.
+
+== Description ==
+
+Multi-step forms, conditional logic, and CRM integration designed for Landscaping & Lawn Care businesses. Higher conversion than generic form plugins.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Landscaping & Lawn Care Lead Generation Form Builder WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU5kDeTt0bW7BCcDWcZm2o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU5kDeTt0bW7BCcDWcZm2o)
+
